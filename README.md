@@ -1,8 +1,11 @@
 # Hwiyeol Jo
 ## Research Interests
 Artificial Intelligence with Cognitive Science, Machine Learning for Natural Language Processing to investigate human minds
+
 - Research Keyword
-Knowledge Transfer through Representation Learning, incorporating (lexical) semantics, information retrieval, general machine learning frameworks like meta-level representation learning.
+  - Knowledge Transfer through Representation Learning
+    - incorporating (lexical) semantics, information retrieval,
+  - General machine learning frameworks like meta-level representation learning.
 
 ## Education
 - M.S. in Computer Science & Engineering (2015 – 2017) , Seoul National University, Republic of Korea
