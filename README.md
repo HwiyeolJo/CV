@@ -99,7 +99,7 @@ Lecturer, Computing and Mathematics, Seoul National University of Education. Spr
 
 ## Academic Services
 
-EMNLP2021(Reviewer), CogSci2022(Reviewer), COLING2022(Reviewer)
+EMNLP2021(Reviewer), CogSci2022(Reviewer), COLING2022(Reviewer), EMNLP2022(Reviewer)
 
 ## Talks
 AI using Python, Seoul National University of Education, Jan 16-17, 2020.
