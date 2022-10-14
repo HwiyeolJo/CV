@@ -16,6 +16,10 @@ Artificial Intelligence with Cognitive Science, Machine Learning for Natural Lan
 ## Research Experience
 #### (Accepted)
 
+Kim, J., Kim, H. J., Cho, H., **Jo, H.**, Lee, S. W., Lee, S. G., ... & Kim, T. (2022). Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations. EMNLP2022
+
+- Investigated input-label importance of large-scale pretrained language model (e.g., GPTs) in few-shot settings
+
 **Jo, H.**, Kang, D., Heads, A., & Hearst, M. (2021). Modeling Mathematical Notation Semantics in Academic Papers. EMNLP2021(Findings)
 
 - Proposed two notation prediction tasks to test models’ mathematical semantics understanding
