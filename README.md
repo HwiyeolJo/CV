@@ -1,4 +1,5 @@
 # Hwiyeol Jo
+Currently at NAVER Search US
 ## Research Interests
 Artificial Intelligence with Cognitive Science, Machine Learning for Natural Language Processing to investigate human minds
 
@@ -73,8 +74,13 @@ Full Publication Lists with Psychology papers are available at http://hwiyeolj.c
 
 ## Work Experiences
 
-[2021.07 – Current] Research Scientist & Engineer, Clova CIC, NAVER, Republic of Korea
-- Document-level QA Models for Abstractive Summarization
+[2022.11 – Current] Research Scientist & Engineer, Search US, NAVER, Republic of Korea
+- TBU
+
+[2021.07 – 2022.11] Research Scientist & Engineer, Clova CIC, NAVER, Republic of Korea
+
+- General MRC Models to extract information related to query from given documents
+- Make it component model of information retrieval filtering and question generation model
 
 [2019.07 – 2021.07] Research Assistant, Institute of Computer Technology, Seoul National University, Republic of Korea
 
@@ -98,7 +104,9 @@ Full Publication Lists with Psychology papers are available at http://hwiyeolj.c
 
 ## Teaching Courses
 Lecturer, App Programming, Seoul National University of Education. Fall 2020.
+
 Lecturer, Introduction to Computer Engineering, Hongik University. Spring 2020.
+
 Lecturer, Computing and Mathematics, Seoul National University of Education. Spring 2020.
 
 ## Academic Services
@@ -107,12 +115,18 @@ EMNLP2021(Reviewer), CogSci2022(Reviewer), COLING2022(Reviewer), EMNLP2022(Revie
 
 ## Talks
 AI using Python, Seoul National University of Education, Jan 16-17, 2020.
+
 Computational Linguistic Approaches for Sentiment Analysis, Cognitive Science Colloquium in Seoul National University, June 3, 2019.
+
 Large-Scale Text Classification with Deep Neural Networks, Korea Institute of S&T Evaluation and Planning, Feb 1, 2017.
+
 Introduction to IoT, Drone, and Cognitive Science, National Association of Cognitive Science Industries, Seojeong University, Feb 23 – 25, 2016.
 
 ## Computer Skills
 Python [Fluent] (I have a teaching experience as a lecturer to undergraduate students)
+
 Pytorch [Fluent] (I have been doing research)
+
 Tensorflow [Advanced] (I am able to understand how the codes are working, and modify them)
+
 C, C++, Java [Intermediate] (It’s been for a long time I use them)
