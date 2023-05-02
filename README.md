@@ -17,6 +17,13 @@ Artificial Intelligence with Cognitive Science, Machine Learning for Natural Lan
 ## Research Experience
 #### (Accepted)
 
+**Jo, H.** (2023). A Self-Supervised Integration Method of Pretrained Language Models and Word Definitions. ACL2023(Findings)
+
+- Dissected BERT representation with respect to the basic form of semantics, formal definition
+- Developed DefBERT; The method to inject formal definition into contextualized models
+- Proposed DefRank, SenseRank tasks to measure the ability to incorporate formal definitions
+
+
 Kim, J., Kim, H. J., Cho, H., **Jo, H.**, Lee, S. W., Lee, S. G., ... & Kim, T. (2022). Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations. EMNLP2022
 
 - Investigated input-label importance of large-scale pretrained language model (e.g., GPTs) in few-shot settings
@@ -54,12 +61,6 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 - Extrofitting results in word vector generalization
 
 #### (Preprint/Under Reviews)
-
-**Jo, H.**, Kang, D., Zhang, B., & Hearst, M. (2020). Does BERT know this word’s definition? Integration Method of Pretrained Language Models and Dictionary Definitions. submitted
-
-- Dissected BERT representation with respect to the basic form of semantics, formal definition
-- Developed DefBERT; The method to inject formal definition into contextualized models
-- Proposed DefRank, SenseRank tasks to measure the ability to incorporate formal definitions
 
 **Jo, H.**, & Zhang, B. (2019). Ruminating Word Representations with Random Masker. submitted
 
