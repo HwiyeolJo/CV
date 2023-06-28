@@ -76,7 +76,8 @@ Full Publication Lists with Psychology papers are available at http://hwiyeolj.c
 ## Work Experiences
 
 [2022.11 – Current] Research Scientist & Engineer, Search US, NAVER, Republic of Korea
-- TBU
+- Large Language Model backbone (with deepspeed+Megatron) and its applications (with finetuning+prompting)
+- Improving Search Engine results, using word/model semantics
 
 [2021.07 – 2022.11] Research Scientist & Engineer, Clova CIC, NAVER, Republic of Korea
 
