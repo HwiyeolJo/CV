@@ -1,7 +1,9 @@
 # Hwiyeol Jo
 Currently at NAVER Search US
 ## Research Interests
-Artificial Intelligence with Cognitive Science, Machine Learning for Natural Language Processing to investigate human minds
+Artificial Intelligence with Cognitive Science
+
+Machine Learning for Natural Language Processing to investigate human minds
 
 - Research Keyword
   - Knowledge Transfer through Representation Learning
@@ -113,7 +115,7 @@ Lecturer, Computing and Mathematics, Seoul National University of Education. Spr
 
 ## Academic Services
 
-ACL2023(Reviewer), CogSci2023(Reviewer), EMNLP2022(Reviewer), COLING2022(Reviewer), CogSci2022(Reviewer), EMNLP2021(Reviewer)
+LREC-COLING2024(Reviewer), EMNLP2023(Reviewer), ACL2023(Reviewer), CogSci2023(Reviewer), EMNLP2022(Reviewer), COLING2022(Reviewer), CogSci2022(Reviewer), EMNLP2021(Reviewer)
 
 ## Talks
 AI using Python, Seoul National University of Education, Jan 16-17, 2020.
