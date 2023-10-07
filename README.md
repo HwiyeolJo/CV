@@ -19,12 +19,16 @@ Machine Learning for Natural Language Processing to investigate human minds
 ## Research Experience
 #### (Accepted)
 
+**Jo, H.** (2023). Expansional Retrofitting for Word Vector Enrichment. EMNLP2023(Findings)
+
+- Extended extrofitting without requiring any external lexicon; Self-supervised extrofitting
+- Improved on various benchmarks like word similarity tasks in various language, DST, and text classification, showing the quality of the approach
+
 **Jo, H.** (2023). A Self-Supervised Integration Method of Pretrained Language Models and Word Definitions. ACL2023(Findings)
 
 - Dissected BERT representation with respect to the basic form of semantics, formal definition
 - Developed DefBERT; The method to inject formal definition into contextualized models
 - Proposed DefRank, SenseRank tasks to measure the ability to incorporate formal definitions
-
 
 Kim, J., Kim, H. J., Cho, H., **Jo, H.**, Lee, S. W., Lee, S. G., ... & Kim, T. (2022). Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations. EMNLP2022
 
@@ -67,11 +71,6 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 **Jo, H.**, & Zhang, B. (2019). Ruminating Word Representations with Random Masker. submitted
 
 - Proposed an iterative training method for better word representation and for model regularization
-
-**Jo, H.** (2019). Expansional Retrofitting for Word Vector Enrichment. submitted
-
-- Extended extrofitting to self-supervised method; Self-supervised extrofitting
-- Extended extrofitting for word vector specialization; Deep extrofitting
 
 Full Publication Lists with Psychology papers are available at http://hwiyeolj.com/about/full-paper-presentation-list/
 
