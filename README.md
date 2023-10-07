@@ -19,7 +19,7 @@ Machine Learning for Natural Language Processing to investigate human minds
 ## Research Experience
 #### (Accepted)
 
-**Jo, H.** (2023). Expansional Retrofitting for Word Vector Enrichment. EMNLP2023(Findings)
+**Jo, H.** (2023). Self-supervised Post-processing Method to Enrich Pretrained Word Vectors. EMNLP2023(Findings)
 
 - Extended extrofitting without requiring any external lexicon; Self-supervised extrofitting
 - Improved on various benchmarks like word similarity tasks in various language, DST, and text classification, showing the quality of the approach
