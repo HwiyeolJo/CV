@@ -17,9 +17,12 @@ Machine Learning for Natural Language Processing to investigate human minds
 + Military service at Third Republic Of Korea Army; TROKA (2011 – 2013)
 
 ## Research Experience
+
+[Google Scholar](https://scholar.google.co.kr/citations?user=hFSHr0gAAAAJ&hl=ko)
+
 #### (Accepted)
 
-**Jo, H.** (2023). Self-supervised Post-processing Method to Enrich Pretrained Word Vectors. EMNLP2023(Findings)
+**Jo, H.** (2023). Self-supervised Post-processing Method to Enrich Pretrained Word Vectors. EMNLP2023(Findings) [Selected as Presentation]
 
 - Extended extrofitting without requiring any external lexicon; Self-supervised extrofitting
 - Improved on various benchmarks like word similarity tasks in various language, DST, and text classification, showing the quality of the approach
