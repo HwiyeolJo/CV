@@ -1,5 +1,9 @@
 # Hwiyeol Jo
+
 Currently at NAVER Search US
+
+\* Reach by email, hwiyeolj@gmail .com
+
 ## Research Interests
 Artificial Intelligence with Cognitive Science
 
