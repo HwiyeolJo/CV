@@ -2,8 +2,14 @@
 
 Currently at NAVER Search US
 
-\* Reach by email, hwiyeolj@gmail .com
+\* Reach by email: hwiyeolj@gmail .com
 
+## Recent Update (Dec, 2023)
+- 1 Paper Accepted at EMNLP2023
+  - Self-supervised Post-processing Method to Enrich Pretrained Word Vectors
+- 5 mins talk at Bird-of-Feather session on Embeddings in EMNLP2023
+  - title: Post-processing Approaches Toward Better Embeddings
+ 
 ## Research Interests
 Artificial Intelligence with Cognitive Science
 
@@ -124,6 +130,9 @@ Lecturer, Computing and Mathematics, Seoul National University of Education. Spr
 LREC-COLING2024(Reviewer), EMNLP2023(Reviewer), ACL2023(Reviewer), CogSci2023(Reviewer), EMNLP2022(Reviewer), COLING2022(Reviewer), CogSci2022(Reviewer), EMNLP2021(Reviewer)
 
 ## Talks
+
+Post-processing Approaches Toward Better Embeddings, Bird-of-Feather session on Embeddings in EMNLP2023, Dec 9th, 2023
+
 AI using Python, Seoul National University of Education, Jan 16-17, 2020.
 
 Computational Linguistic Approaches for Sentiment Analysis, Cognitive Science Colloquium in Seoul National University, June 3, 2019.
