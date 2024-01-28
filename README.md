@@ -127,19 +127,19 @@ Lecturer, Computing and Mathematics, Seoul National University of Education. Spr
 
 ## Academic Services
 
-LREC-COLING2024(Reviewer), EMNLP2023(Reviewer), ACL2023(Reviewer), CogSci2023(Reviewer), EMNLP2022(Reviewer), COLING2022(Reviewer), CogSci2022(Reviewer), EMNLP2021(Reviewer)
+NAACL2024(Reviewer), LREC-COLING2024(Reviewer), EMNLP2023(Reviewer), ACL2023(Reviewer), CogSci2023(Reviewer), EMNLP2022(Reviewer), COLING2022(Reviewer), CogSci2022(Reviewer), EMNLP2021(Reviewer)
 
 ## Talks
 
 Post-processing Approaches Toward Better Embeddings, Bird-of-Feather session on Embeddings in EMNLP2023, Dec 9th, 2023
 
-AI using Python, Seoul National University of Education, Jan 16-17, 2020.
+AI using Python, Seoul National University of Education, Jan 16-17th, 2020.
 
-Computational Linguistic Approaches for Sentiment Analysis, Cognitive Science Colloquium in Seoul National University, June 3, 2019.
+Computational Linguistic Approaches for Sentiment Analysis, Cognitive Science Colloquium in Seoul National University, June 3rd, 2019.
 
-Large-Scale Text Classification with Deep Neural Networks, Korea Institute of S&T Evaluation and Planning, Feb 1, 2017.
+Large-Scale Text Classification with Deep Neural Networks, Korea Institute of S&T Evaluation and Planning, Feb 1st, 2017.
 
-Introduction to IoT, Drone, and Cognitive Science, National Association of Cognitive Science Industries, Seojeong University, Feb 23 – 25, 2016.
+Introduction to IoT, Drone, and Cognitive Science, National Association of Cognitive Science Industries, Seojeong University, Feb 23–25th, 2016.
 
 ## Computer Skills
 Python [Fluent] (I have a teaching experience as a lecturer to undergraduate students)
