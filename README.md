@@ -1,14 +1,14 @@
 # Hwiyeol Jo
 
-Currently at NAVER Search US
+Currently at NAVER Search ~~US~~
 
-\* Reach by email: hwiyeolj@gmail .com
+\* Reach me by email: hwiyeolj@gmail .com
 
-## Recent Update (Dec, 2023)
-- 1 Paper Accepted at EMNLP2023
-  - Self-supervised Post-processing Method to Enrich Pretrained Word Vectors
-- 5 mins talk at Bird-of-Feather session on Embeddings in EMNLP2023
-  - title: Post-processing Approaches Toward Better Embeddings
+## Recent Update (Feb, 2024)
+- Transfer to NAVER Search C2C team from Search US
+- 1 Paper Submitted at NAACL2024 Industry Track as 1st author
+  - Taxonomy and Analysis of Sensitive User Queries in Generative AI Search
+- Start a lecture about deep learning with NLP in Hanyang University, from March
  
 ## Research Interests
 Artificial Intelligence with Cognitive Science
@@ -85,13 +85,17 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 
 - Proposed an iterative training method for better word representation and for model regularization
 
-Full Publication Lists with Psychology papers are available at http://hwiyeolj.com/about/full-paper-presentation-list/
+Full Publication Lists with Psychology related papers are omitted.
 
 ## Work Experiences
 
-[2022.11 – Current] Research Scientist & Engineer, Search US, NAVER, Republic of Korea
+[2024.02 – Current] Research Scientist & Engineer, Search, NAVER, Republic of Korea
+- Improving Search Engine results with self/unsupervised-method, using LLMs internal knowledge.
+
+[2022.11 – 2024.02] Research Scientist & Engineer, Search US, NAVER, Republic of Korea
 - Large Language Model backbone (with deepspeed+Megatron) and its applications (with finetuning+prompting)
 - Improving Search Engine results, using word/model semantics
+- Input-level sensitivity checking for AI safety
 
 [2021.07 – 2022.11] Research Scientist & Engineer, Clova CIC, NAVER, Republic of Korea
 
@@ -119,6 +123,9 @@ Full Publication Lists with Psychology papers are available at http://hwiyeolj.c
 - Research regarding word vector specialization and document representation
 
 ## Teaching Courses
+
+Lecturer, Deep Learning and its Application (NLP), Hanyang University, Spring 2024.
+
 Lecturer, App Programming, Seoul National University of Education. Fall 2020.
 
 Lecturer, Introduction to Computer Engineering, Hongik University. Spring 2020.
@@ -127,7 +134,11 @@ Lecturer, Computing and Mathematics, Seoul National University of Education. Spr
 
 ## Academic Services
 
-NAACL2024(Reviewer), LREC-COLING2024(Reviewer), EMNLP2023(Reviewer), ACL2023(Reviewer), CogSci2023(Reviewer), EMNLP2022(Reviewer), COLING2022(Reviewer), CogSci2022(Reviewer), EMNLP2021(Reviewer)
+ACL: 2023, 2024
+EMNLP: 2021, 2022, 2023
+CogSci: 2022, 2023, 2024
+COLING: 2022, 2024 (with LREC),
+NAACL: 2024
 
 ## Talks
 
