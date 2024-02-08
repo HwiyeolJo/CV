@@ -8,7 +8,7 @@ Currently at NAVER Search ~~US~~
 - Transfer to NAVER Search C2C team from Search US
 - 1 Paper Submitted at NAACL2024 Industry Track as 1st author
   - Taxonomy and Analysis of Sensitive User Queries in Generative AI Search
-- Start a lecture about deep learning with NLP in Hanyang University, from March
+- Start a lecture about deep learning with NLP in Hanyang University, from Spring 2024
  
 ## Research Interests
 Artificial Intelligence with Cognitive Science
@@ -90,7 +90,7 @@ Full Publication Lists with Psychology related papers are omitted.
 ## Work Experiences
 
 [2024.02 – Current] Research Scientist & Engineer, Search, NAVER, Republic of Korea
-- Improving Search Engine results with self/unsupervised-method, using LLMs internal knowledge.
+- Improving Search Engine results with self/unsupervised-method by using LLMs' internal knowledge.
 
 [2022.11 – 2024.02] Research Scientist & Engineer, Search US, NAVER, Republic of Korea
 - Large Language Model backbone (with deepspeed+Megatron) and its applications (with finetuning+prompting)
@@ -135,9 +135,13 @@ Lecturer, Computing and Mathematics, Seoul National University of Education. Spr
 ## Academic Services
 
 ACL: 2023, 2024
+
 EMNLP: 2021, 2022, 2023
+
 CogSci: 2022, 2023, 2024
+
 COLING: 2022, 2024 (with LREC),
+
 NAACL: 2024
 
 ## Talks
