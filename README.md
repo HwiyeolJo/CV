@@ -89,7 +89,7 @@ Full Publication Lists with Psychology related papers are omitted.
 
 ## Work Experiences
 
-[2024.02 – Current] Research Scientist & Engineer, Search, NAVER, Republic of Korea
+[2024.02 – Current] Research Scientist & Engineer, Search CIC, NAVER, Republic of Korea
 - Improving Search Engine results with self/unsupervised-method by using LLMs' internal knowledge.
 
 [2022.11 – 2024.02] Research Scientist & Engineer, Search US, NAVER, Republic of Korea
@@ -143,6 +143,8 @@ CogSci: 2022, 2023, 2024
 COLING: 2022, 2024 (with LREC),
 
 NAACL: 2024
+
+CoLM: 2024
 
 ## Talks
 
