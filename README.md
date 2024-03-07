@@ -8,7 +8,7 @@ Currently at NAVER Search ~~US~~
 - Transfer to NAVER Search C2C team from Search US
 - 1 Paper Submitted at NAACL2024 Industry Track as 1st author
   - Taxonomy and Analysis of Sensitive User Queries in Generative AI Search
-- Start a lecture about deep learning with NLP in Hanyang University, from Spring 2024
+- Start lectures titled deep learning methods and application, in particular NLP, in Hanyang University
  
 ## Research Interests
 Artificial Intelligence with Cognitive Science
