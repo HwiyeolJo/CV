@@ -24,7 +24,7 @@ Machine Learning for Natural Language Processing to investigate human minds
 
 [Google Scholar](https://scholar.google.co.kr/citations?user=hFSHr0gAAAAJ&hl=ko)
 
-#### (Preprint/Under Reviews)
+### Preprint/Under Reviews
 
 **Jo, H.**, Lee, H., & Park, T. (2024). ZeroDL: Zero-shot Distribution Learning for Text Clustering via Large Language Models. Submitted
 
@@ -42,7 +42,7 @@ Machine Learning for Natural Language Processing to investigate human minds
 
 - Proposed an iterative training method for better word representation and for model regularization
 
-#### (Accepted)
+### Accepted
 
 **Jo, H.** (2023). Self-supervised Post-processing Method to Enrich Pretrained Word Vectors. EMNLP2023(Findings) [Selected for Presentation]
 
@@ -95,8 +95,8 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 
 ## Work Experiences
 
-[2024.02 – Current] Research Scientist & Engineer, Search CIC, NAVER, Republic of Korea
-- Improving Search Engine results with self/unsupervised-method by using LLMs' internal knowledge.
+[2024.02 – Current] Research Scientist & Engineer, NAVER, Republic of Korea
+- Improving Search Engine results with self/unsupervised methods using LLMs' internal knowledge.
 
 [2022.11 – 2024.02] Research Scientist & Engineer, Search US, NAVER, Republic of Korea
 - Large Language Model backbone (with deepspeed+Megatron) and its applications (with finetuning+prompting)
@@ -142,7 +142,7 @@ Lecturer, Computing and Mathematics, Seoul National University of Education. Spr
 
 ACL: 2023, 2024
 
-EMNLP: 2021, 2022, 2023
+EMNLP: 2021, 2022, 2023, 2024
 
 CogSci: 2022, 2023, 2024
 
@@ -154,7 +154,9 @@ CoLM: 2024
 
 ## Talks
 
-Post-processing Approaches Toward Better Embeddings, Bird-of-Feather session on Embeddings in EMNLP2023, Dec 9th, 2023
+Large Language Model Trends and Applications in NLP, Kyoung-Hee University, July 4th, 2024.
+
+Post-processing Approaches Toward Better Embeddings, Bird-of-Feather session on Embeddings in EMNLP2023, Dec 9th, 2023.
 
 AI using Python, Seoul National University of Education, Jan 16-17th, 2020.
 
@@ -165,6 +167,7 @@ Large-Scale Text Classification with Deep Neural Networks, Korea Institute of S&
 Introduction to IoT, Drone, and Cognitive Science, National Association of Cognitive Science Industries, Seojeong University, Feb 23–25th, 2016.
 
 ## Computer Skills
+
 Python [Fluent] (I have a teaching experience as a lecturer to undergraduate students)
 
 Pytorch [Fluent] (I have been doing research)
