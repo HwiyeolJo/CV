@@ -136,7 +136,7 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 
 ## Teaching Courses
 
-<!-- Lecturer, Deep Learning and its Application (NLP), Hanyang University, Spring 2024. -->
+Lecturer, Deep Learning and its Application (NLP), Hanyang University, Spring 2024.
 
 Lecturer, App Programming, Seoul National University of Education. Fall 2020.
 
