@@ -26,25 +26,24 @@ Machine Learning for Natural Language Processing to investigate human minds
 
 ### Preprint/Under Reviews
 
-Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo, K. (2024). Investigating the Influence of Prompt-Specific Shortcuts in AI Generated Text Detection. Submitted
+Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo, K. (2024). Investigating the Influence of Prompt-Specific Shortcuts in AI Generated Text Detection. ArXived.
 
 - Showed unrobustness of previous AI-Generated Text detectors with prompt variations.
 - Proposed Feedback-based Adversarial Instruction List Optimization (FAILOpt) for general attack method.
 - Additional training with FAILOpt prompt improves models' robustness.
 
-**Jo, H.**, Lee, H., & Park, T. (2024). ZeroDL: Zero-shot Distribution Learning for Text Clustering via Large Language Models. Submitted
+**Jo, H.**, Lee, H., & Park, T. (2024). ZeroDL: Zero-shot Distribution Learning for Text Clustering via Large Language Models. Submitted.
 
 - We propose a novel framework called Zero-shot Distribution Learning framework to understands data distribution across data.
   - Zero-shot inferences to generate meta-level information.
   - Aggragation for learning the data distribution.
 
-
-**Jo, H.** et al., (2023). Taxonomy and Analysis of Sensitive User Queries in Generative AI Search. ArXiv.
+**Jo, H.** et al., (2023). Taxonomy and Analysis of Sensitive User Queries in Generative AI Search. Submitted.
 
 - Defined a taxonomy with sensitive query categories for national-scale search engine, develop a query classifier
 - Analyze the distribution of input queries to provide insights.
 
-**Jo, H.**, & Zhang, B. (2019). Ruminating Word Representations with Random Masker. Submitted
+**Jo, H.**, & Zhang, B. (2019). Ruminating Word Representations with Random Masker. ArXived.
 
 - Proposed an iterative training method for better word representation and for model regularization
 
@@ -104,6 +103,10 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 [2024.02 – Current] Research Scientist & Engineer, NAVER, Republic of Korea
 - Improving Search Engine results with self/unsupervised methods using LLMs' internal knowledge.
 
+[2024.09 - Current] Lecturer, Graduate School of Information & Communications, Konkuk University, Republic of Korea
+
+[2024.03 - 2024.08] Lecturer, Department of Data Science, Hanyang University, Republic of Korea
+
 [2022.11 – 2024.02] Research Scientist & Engineer, Search US, NAVER, Republic of Korea
 - Large Language Model backbone (with deepspeed+Megatron) and its applications (with finetuning+prompting)
 - Improving Search Engine results, using word/model semantics
@@ -136,13 +139,15 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 
 ## Teaching Courses
 
-Lecturer, Deep Learning and its Application (NLP), Hanyang University, Spring 2024.
+Introduction to Deep Neural Networks, Graduate School of Information & Communications, Konkuk University, Fall 2024.
 
-Lecturer, App Programming, Seoul National University of Education. Fall 2020.
+Deep Learning and its Application (NLP), Department of Data Science, Hanyang University, Spring 2024.
 
-Lecturer, Introduction to Computer Engineering, Hongik University. Spring 2020.
+App Programming, Department of Computer Education, Seoul National University of Education. Fall 2020.
 
-Lecturer, Computing and Mathematics, Seoul National University of Education. Spring 2020.
+Introduction to Computer Engineering, Department of Computer Engineering, Hongik University. Spring 2020.
+
+Computing and Mathematics, Department of Computer Education, Seoul National University of Education. Spring 2020.
 
 ## Academic Services
 
