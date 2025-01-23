@@ -185,9 +185,9 @@ Introduction to IoT, Drone, and Cognitive Science, National Association of Cogni
 
 ## Computer Skills
 
-Python [Fluent] (I have a teaching experience as a lecturer to undergraduate students)
+Python [Fluent] (I have teaching experiences as a lecturer)
 
-Pytorch [Fluent] (I have been doing research)
+Pytorch [Fluent] (I have teaching experiences as a lecturer)
 
 Tensorflow [Advanced] (I am able to understand how the codes are working, and modify them)
 
