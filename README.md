@@ -38,16 +38,18 @@ Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo,
   - Zero-shot inferences to generate meta-level information.
   - Aggragation for learning the data distribution.
 
-**Jo, H.** et al., (2023). Taxonomy and Analysis of Sensitive User Queries in Generative AI Search. Submitted.
-
-- Defined a taxonomy with sensitive query categories for national-scale search engine, develop a query classifier
-- Analyze the distribution of input queries to provide insights.
-
 **Jo, H.**, & Zhang, B. (2019). Ruminating Word Representations with Random Masker. ArXived.
 
 - Proposed an iterative training method for better word representation and for model regularization
 
 ### Accepted
+
+#### 1st Authored
+
+**Jo, H.** et al., (2025). Taxonomy and Analysis of Sensitive User Queries in Generative AI Search. NAACL2025(Findings)
+
+- Defined a taxonomy with sensitive query categories for national-scale search engine, develop a query classifier
+- Analyze the distribution of input queries to provide insights.
 
 **Jo, H.** (2023). Self-supervised Post-processing Method to Enrich Pretrained Word Vectors. EMNLP2023(Findings) [Selected for Presentation]
 
@@ -59,10 +61,6 @@ Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo,
 - Dissected BERT representation with respect to the basic form of semantics, formal definition
 - Developed DefBERT; The method to inject formal definition into contextualized models
 - Proposed DefRank, SenseRank tasks to measure the ability to incorporate formal definitions
-
-Kim, J., Kim, H. J., Cho, H., **Jo, H.**, Lee, S. W., Lee, S. G., ... & Kim, T. (2022). Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations. EMNLP2022
-
-- Investigated input-label importance of large-scale pretrained language model (e.g., GPTs) in few-shot settings
 
 **Jo, H.**, Kang, D., Heads, A., & Hearst, M. (2021). Modeling Mathematical Notation Semantics in Academic Papers. EMNLP2021(Findings)
 
@@ -79,10 +77,6 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B., & Park, J. (2021). Passive Versus Active: Fr
 - Analyzed active learning on both Humans and Machines
 - Proposed two experiments (human and machine, respectively) in order to compare active and passive learning.
 
-Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning: Machines Simulating Human Learning Process. NeurIPS 2020 Workshop on BabyMind (*Equal Contribution) [Spotlight Presentation]
-
-- Extended to CogSci2021
-
 **Jo, H.**, & Cinarel, C. (2019). Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings. EMNLP2019
 
 - Suggested a semi-supervised training framework using knowledge gaps between two classifiers
@@ -96,7 +90,19 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 - Developed extrofitting that injects lexical semantics into word vectors
 - Extrofitting results in word vector generalization
 
-### Publication Lists with Psychology related papers are omitted.
+#### Co-authored
+
+Kwon, O., Jeon D., Choi, N., Cho, G., **Jo, H.**, Kim, C., Lee, H., Kang, I., Kim, S., & Park, T. (2024). SLM as Guardian: Pioneering AI Safety with Small Language Model. EMNLP2024(Industry Track)
+
+Kim, J., Kim, H. J., Cho, H., **Jo, H.**, Lee, S. W., Lee, S. G., ... & Kim, T. (2022). Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations. EMNLP2022
+
+- Investigated input-label importance of large-scale pretrained language model (e.g., GPTs) in few-shot settings
+
+Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning: Machines Simulating Human Learning Process. NeurIPS 2020 Workshop on BabyMind (*Equal Contribution) [Spotlight Presentation]
+
+- Extended to CogSci2021
+
+#### Publication Lists with Psychology related papers are omitted.
 
 ## Work Experiences
 
