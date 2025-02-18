@@ -44,7 +44,7 @@ Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo,
 
 ### Accepted
 
-#### 1st Authored
+#### 1st Authored: ACL(1), EMNLP(4), NAACL(1), CogSci(1), WS(2)
 
 **Jo, H.** et al., (2025). Taxonomy and Analysis of Sensitive User Queries in Generative AI Search. NAACL2025(Findings)
 
@@ -90,7 +90,7 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B., & Park, J. (2021). Passive Versus Active: Fr
 - Developed extrofitting that injects lexical semantics into word vectors
 - Extrofitting results in word vector generalization
 
-#### Co-authored
+#### Co-authored: EMNLP(1), EMNLP-Industry(1), WS(1)
 
 Kwon, O., Jeon D., Choi, N., Cho, G., **Jo, H.**, Kim, C., Lee, H., Kang, I., Kim, S., & Park, T. (2024). SLM as Guardian: Pioneering AI Safety with Small Language Model. EMNLP2024(Industry Track)
 
