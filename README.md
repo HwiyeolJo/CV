@@ -1,6 +1,6 @@
 # Hwiyeol Jo
 
-Currently at NAVER (Search US)
+Currently at NAVER <!-- (Search US) -->
 
 \* Reach me by email: hwiyeolj@gmail .com
  
@@ -109,9 +109,9 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 [2024.02 – Current] Research Scientist & Engineer, NAVER, Republic of Korea
 - Improving Search Engine results with self/unsupervised methods using LLMs' internal knowledge.
 
-<!-- [2024.09 - Current] Adjunct Professor, Graduate School of Information & Communications, Konkuk University, Republic of Korea -->
+[2024.09 - Current] Adjunct Professor, Graduate School of Information & Communications, Konkuk University, Republic of Korea
 
-<!-- [2024.03 - 2024.08] Lecturer, Department of Data Science, Hanyang University, Republic of Korea -->
+[2024.03 - 2024.08] Lecturer, Department of Data Science, Hanyang University, Republic of Korea
 
 [2022.11 – 2024.02] Research Scientist & Engineer, Search US, NAVER, Republic of Korea
 - Large Language Model backbone (with deepspeed+Megatron) and its applications (with finetuning+prompting)
@@ -145,9 +145,9 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 
 ## Teaching Courses
 
-<!-- Introduction to Deep Neural Networks, Graduate School of Information & Communications, Konkuk University, Fall 2024. -->
+Introduction to Deep Neural Networks, Graduate School of Information & Communications, Konkuk University, Fall 2024.
 
-<!-- Deep Learning and its Application (NLP), Department of Data Science, Hanyang University, Spring 2024. -->
+Deep Learning and its Application (NLP), Department of Data Science, Hanyang University, Spring 2024.
 
 App Programming, Department of Computer Education, Seoul National University of Education. Fall 2020.
 
