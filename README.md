@@ -1,6 +1,6 @@
 # Hwiyeol Jo
 
-Currently at NAVER <!-- (Search US) -->
+Currently at NAVER Cloud <!-- (Search US) -->
 
 \* Reach me by email: hwiyeolj@gmail .com
  
@@ -106,7 +106,11 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 
 ## Work Experiences
 
-[2024.02 – Current] Research Scientist & Engineer, NAVER, Republic of Korea
+[2025.05 – Current] Research Scientist, NAVER Cloud, Republic of Korea
+- Investigating methods on foundation models
+  - Novel and efficient way of use
+
+[2024.02 – 2025.04] Research Scientist & Engineer, NAVER, Republic of Korea
 - Improving Search Engine results with self/unsupervised methods using LLMs' internal knowledge.
 
 [2024.09 - Current] Adjunct Professor, Graduate School of Information & Communications, Konkuk University, Republic of Korea
