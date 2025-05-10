@@ -110,10 +110,10 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 - Investigating methods on foundation models
   - Novel and efficient way of use
 
+[2024.09 - Current] Adjunct Professor, Graduate School of Information & Communications, Konkuk University, Republic of Korea
+
 [2024.02 – 2025.04] Research Scientist & Engineer, NAVER, Republic of Korea
 - Improving Search Engine results with self/unsupervised methods using LLMs' internal knowledge.
-
-[2024.09 - Current] Adjunct Professor, Graduate School of Information & Communications, Konkuk University, Republic of Korea
 
 [2024.03 - 2024.08] Lecturer, Department of Data Science, Hanyang University, Republic of Korea
 
