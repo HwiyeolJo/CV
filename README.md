@@ -32,19 +32,19 @@ Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo,
 - Proposed Feedback-based Adversarial Instruction List Optimization (FAILOpt) for general attack method.
 - Additional training with FAILOpt prompt improves models' robustness.
 
-**Jo, H.**, Lee, H., & Park, T. (2024). ZeroDL: Zero-shot Distribution Learning for Text Clustering via Large Language Models. Submitted.
-
-- We propose a novel framework called Zero-shot Distribution Learning framework to understands data distribution across data.
-  - Zero-shot inferences to generate meta-level information.
-  - Aggragation for learning the data distribution.
-
 **Jo, H.**, & Zhang, B. (2019). Ruminating Word Representations with Random Masker. ArXived.
 
 - Proposed an iterative training method for better word representation and for model regularization
 
 ### Accepted
 
-#### 1st Authored: ACL(1), EMNLP(4), NAACL(1), CogSci(1), WS(2)
+#### 1st Authored: ACL(2), EMNLP(4), NAACL(1), CogSci(1), WS(2)
+
+**Jo, H.**, Lee, H., & Park, T. (2025). ZeroDL: Zero-shot Distribution Learning for Text Clustering via Large Language Models. ACL2025(Findings)
+
+- We propose a novel framework called Zero-shot Distribution Learning framework to understands data distribution across data.
+  - Zero-shot inferences to generate meta-level information.
+  - Aggragation for learning the data distribution.
 
 **Jo, H.** et al., (2025). Taxonomy and Analysis of Sensitive User Queries in Generative AI Search. NAACL2025(Findings)
 
@@ -107,8 +107,7 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 ## Work Experiences
 
 [2025.05 – Current] Research Scientist, NAVER Cloud, Republic of Korea
-- Investigating methods on foundation models
-  - Novel and efficient way of use
+- Investigating novel and efficient way of use with foundation models
 
 [2024.09 - Current] Adjunct Professor, Graduate School of Information & Communications, Konkuk University, Republic of Korea
 
@@ -148,6 +147,8 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 - Research regarding word vector specialization and document representation
 
 ## Teaching Courses
+
+Advanced AI (Natural Language Processing), Graduate School of Information & Communications, Konkuk University, Spring 2025.
 
 Introduction to Deep Neural Networks, Graduate School of Information & Communications, Konkuk University, Fall 2024.
 
