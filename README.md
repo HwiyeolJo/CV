@@ -26,7 +26,7 @@ Machine Learning for Natural Language Processing to investigate human minds
 
 ### Preprint/Under Reviews
 
-Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo, K. (2024). Investigating the Influence of Prompt-Specific Shortcuts in AI Generated Text Detection. ArXived.
+Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo, K. M. (2024). Investigating the Influence of Prompt-Specific Shortcuts in AI Generated Text Detection. ArXived.
 
 - Showed unrobustness of previous AI-Generated Text detectors with prompt variations.
 - Proposed Feedback-based Adversarial Instruction List Optimization (FAILOpt) for general attack method.
@@ -40,7 +40,7 @@ Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo,
 
 #### 1st Authored: ACL(2), EMNLP(4), NAACL(1), CogSci(1), WS(2)
 
-**Jo, H.**, Lee, H., & Park, T. (2025). ZeroDL: Zero-shot Distribution Learning for Text Clustering via Large Language Models. ACL2025(Findings)
+**Jo, H.**, Lee, H., Yoo, K. M., & Park, T. (2025). ZeroDL: Zero-shot Distribution Learning for Text Clustering via Large Language Models. ACL2025(Findings)
 
 - We propose a novel framework called Zero-shot Distribution Learning framework to understands data distribution across data.
   - Zero-shot inferences to generate meta-level information.
