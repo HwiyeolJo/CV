@@ -1,6 +1,6 @@
 # Hwiyeol Jo
 
-Currently at NAVER Cloud <!-- (Search US) -->
+Currently at NAVER Cloud as Research Scientist and Konkuk University as Adjunct Professor<!-- (Search US) -->
 
 \* Reach me by email: hwiyeolj@gmail .com
  
