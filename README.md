@@ -13,9 +13,9 @@ Machine Learning for Natural Language Processing to investigate human minds
 
 ### Research Keyword
 Knowledge Transfer through Representation Learning
-- incorporating (lexical) semantics, information retrieval,
-- General machine learning frameworks like meta-level representation learning.
-(Large Language Models are no more research topic but research tools)
+- incorporating (lexical) semantics, information retrieval
+- general machine learning frameworks for self-supervised representation learning
+- (Large Language Models are no more research topic but research tools)
 
 ## Education
 - M.S. in Computer Science & Engineering, Seoul National University, Republic of Korea
