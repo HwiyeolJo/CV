@@ -26,6 +26,9 @@ Machine Learning for Natural Language Processing to investigate human minds
 
 ### Preprint/Under Reviews
 
+NAVER Cloud HyperCLOVA X Team (2025). HyperCLOVA X THINK Technical Report. arXiv preprint arXiv:2506.22403.
+- Core Contributor
+
 Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo, K. M. (2024). Investigating the Influence of Prompt-Specific Shortcuts in AI Generated Text Detection. ArXived.
 
 - Showed unrobustness of previous AI-Generated Text detectors with prompt variations.
@@ -107,7 +110,7 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 ## Work Experiences
 
 [2025.05 – Current] Research Scientist, NAVER Cloud, Republic of Korea
-- Investigating novel and efficient way of use with foundation models
+- Investigating novel and efficient way of using foundation models
 
 [2024.09 - Current] Adjunct Professor, Graduate School of Information & Communications, Konkuk University, Republic of Korea
 
@@ -162,17 +165,17 @@ Computing and Mathematics, Department of Computer Education, Seoul National Univ
 
 ## Academic Services
 
-ACL: 2023, 2024
+ACL: 2023-Current
 
-EMNLP: 2021, 2022, 2023, 2024
+EMNLP: 2021-Current
+
+NAACL: 2024-Current
 
 CogSci: 2022, 2023, 2024
 
 COLING: 2022, 2024 (with LREC),
 
-NAACL: 2024
-
-CoLM: 2024
+CoLM: 2024-Current
 
 ## Talks
 
@@ -190,9 +193,9 @@ Introduction to IoT, Drone, and Cognitive Science, National Association of Cogni
 
 ## Computer Skills
 
-Python [Fluent] (I have teaching experiences as a lecturer)
+Python [Fluent] (I have teaching experiences)
 
-Pytorch [Fluent] (I have teaching experiences as a lecturer)
+Pytorch [Fluent] (I have teaching experiences)
 
 Tensorflow [Advanced] (I am able to understand how the codes are working, and modify them)
 
