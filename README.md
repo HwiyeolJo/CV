@@ -29,6 +29,8 @@ Knowledge Transfer through Representation Learning
 
 ### Preprint/Under Reviews
 
+**Jo, H.**, Lee, J., Lee, J., Lee, S. W., Park, J., & Yoo, K. M. (2025). Finding Answers in Thought Matters: Revisiting Evaluation on Large Language Models with Reasoning. arXiv preprint arXiv:2510.14773.
+
 NAVER Cloud HyperCLOVA X Team (2025). HyperCLOVA X THINK Technical Report. arXiv preprint arXiv:2506.22403.
 - Core Contributor
 
