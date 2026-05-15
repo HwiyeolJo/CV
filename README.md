@@ -116,7 +116,7 @@ Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo,
 
 - Proposed an iterative training method for better word representation and for model regularization
 
-#### Publication Lists with Psychology related papers are omitted.
+### Publication Lists related with with Pure Psychology are omitted.
 
 ## Work Experiences
 
@@ -160,9 +160,15 @@ Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo,
 - PoC on recent models/algorithms and related company (e.g., Luminoso)
 - Research regarding word vector specialization and document representation
 
+## Supervisee
+
+Wanjung Kim (2025, M.S.), Namgoo Song (2025, M.S.), Taeyang Choi (2025, M.S.).
+
 ## Teaching Courses
 
-Advanced AI (Natural Language Processing), Graduate School of Information & Communications, Konkuk University, Spring 2025.
+Advanced AI (III; DeepNLP--NLP with Deep Learning), Graduate School of Information & Communications, Konkuk University, Fall 2025-Current.
+
+Advanced AI (II; Natural Language Processing), Graduate School of Information & Communications, Konkuk University, Spring 2025-Current.
 
 Introduction to Deep Neural Networks, Graduate School of Information & Communications, Konkuk University, Fall 2024.
 
@@ -176,13 +182,17 @@ Computing and Mathematics, Department of Computer Education, Seoul National Univ
 
 ## Academic Services
 
-ACL: 2023-Current, EMNLP: 2021-Current, NAACL: 2024-Current, CogSci: 2022, 2023, 2024, COLING: 2022, 2024 (with LREC), CoLM: 2024-Current
+Regular ARR reviewers.
+
+Specifially, ACL: 2023-Current, EMNLP: 2021-Current, NAACL: 2024-Current, CogSci: 2022, 2023, 2024, COLING: 2022, 2024 (with LREC), CoLM: 2024-Current
 
 ## Talks
 
+Academic NLP Research in an Industrial Context, Hanyang University & Ehwa University, Feb 13th & May 22th, 2026.
+
 Large Language Model Trends and Applications in NLP, Kyoung-Hee University, July 4th, 2024.
 
-Post-processing Approaches Toward Better Embeddings, Bird-of-Feather session on Embeddings in EMNLP2023, Dec 9th, 2023.
+Post-processing Approaches Toward Better Embeddings, Bird-of-Feather Session on Embeddings in EMNLP2023, Dec 9th, 2023.
 
 AI using Python, Seoul National University of Education, Jan 16-17th, 2020.
 
@@ -200,4 +210,4 @@ Pytorch [Fluent] (I have teaching experiences)
 
 Tensorflow [Advanced] (I am able to understand how the codes are working, and modify them)
 
-C, C++, Java [Intermediate] (It’s been for a long time I use them)
+C, C++, Java [Intermediate] (It’s been for a long time since I use them)
