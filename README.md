@@ -23,11 +23,16 @@ Knowledge Transfer through Representation Learning
 - B.S. in Computer Science & Engineering, Konkuk University, Republic of Korea
 + Military service at Third Republic Of Korea Army; TROKA
 
+## Supervisee
+
+Wanjung Kim (Fall 2025, M.S.), Namgoo Song (Fall 2025, M.S.), Taeyang Choi (Spring 2026, M.S.).
+
+
 ## Research Experience
 
 [Google Scholar](https://scholar.google.co.kr/citations?user=hFSHr0gAAAAJ&hl=ko)
 
-### Under Reviews
+### Under Reviews (recent)
 
 Lee, J., **Jo, H.**, Ko, D., Chae, K., Park, C., & Kim, J. (2026). What Models Know, How Well They Know It: Knowledge-Weighted Fine-Tuning for Learning When to Say" I Don't Know". arXiv preprint arXiv:2604.05779.
 
@@ -159,10 +164,6 @@ Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo,
 - Word vector generation and post-processing for target tasks (e.g., Chatbot embedded in TV products, and disorder symptom classifier for customer service center)
 - PoC on recent models/algorithms and related company (e.g., Luminoso)
 - Research regarding word vector specialization and document representation
-
-## Supervisee
-
-Wanjung Kim (2025, M.S.), Namgoo Song (2025, M.S.), Taeyang Choi (2025, M.S.).
 
 ## Teaching Courses
 
