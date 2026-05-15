@@ -27,22 +27,13 @@ Knowledge Transfer through Representation Learning
 
 [Google Scholar](https://scholar.google.co.kr/citations?user=hFSHr0gAAAAJ&hl=ko)
 
-### Preprint/Under Reviews
+### Under Reviews
+
+Lee, J., **Jo, H.**, Ko, D., Chae, K., Park, C., & Kim, J. (2026). What Models Know, How Well They Know It: Knowledge-Weighted Fine-Tuning for Learning When to Say" I Don't Know". arXiv preprint arXiv:2604.05779.
+
+Kim, S., Park, B., Jung, K., Lee, J., Kim, S., Kim, J., ... & **Jo, H.** (2026). OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models. arXiv preprint arXiv:2603.23938.
 
 **Jo, H.**, Lee, J., Lee, J., Lee, S. W., Park, J., & Yoo, K. M. (2025). Finding Answers in Thought Matters: Revisiting Evaluation on Large Language Models with Reasoning. arXiv preprint arXiv:2510.14773.
-
-NAVER Cloud HyperCLOVA X Team (2025). HyperCLOVA X THINK Technical Report. arXiv preprint arXiv:2506.22403.
-- Core Contributor
-
-Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo, K. M. (2024). Investigating the Influence of Prompt-Specific Shortcuts in AI Generated Text Detection. ArXived.
-
-- Showed unrobustness of previous AI-Generated Text detectors with prompt variations.
-- Proposed Feedback-based Adversarial Instruction List Optimization (FAILOpt) for general attack method.
-- Additional training with FAILOpt prompt improves models' robustness.
-
-**Jo, H.**, & Zhang, B. (2019). Ruminating Word Representations with Random Masker. ArXived.
-
-- Proposed an iterative training method for better word representation and for model regularization
 
 ### Accepted
 
@@ -110,6 +101,21 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B. & Park, J. (2020). Human-Like Active Learning
 
 - Extended to CogSci2021
 
+#### ArXived (olds)
+
+NAVER Cloud HyperCLOVA X Team (2025). HyperCLOVA X THINK Technical Report. arXiv preprint arXiv:2506.22403.
+- Core Contributor
+
+Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo, K. M. (2024). Investigating the Influence of Prompt-Specific Shortcuts in AI Generated Text Detection. ArXived.
+
+- Showed unrobustness of previous AI-Generated Text detectors with prompt variations.
+- Proposed Feedback-based Adversarial Instruction List Optimization (FAILOpt) for general attack method.
+- Additional training with FAILOpt prompt improves models' robustness.
+
+**Jo, H.**, & Zhang, B. (2019). Ruminating Word Representations with Random Masker. ArXived.
+
+- Proposed an iterative training method for better word representation and for model regularization
+
 #### Publication Lists with Psychology related papers are omitted.
 
 ## Work Experiences
@@ -170,17 +176,7 @@ Computing and Mathematics, Department of Computer Education, Seoul National Univ
 
 ## Academic Services
 
-ACL: 2023-Current
-
-EMNLP: 2021-Current
-
-NAACL: 2024-Current
-
-CogSci: 2022, 2023, 2024
-
-COLING: 2022, 2024 (with LREC),
-
-CoLM: 2024-Current
+ACL: 2023-Current, EMNLP: 2021-Current, NAACL: 2024-Current, CogSci: 2022, 2023, 2024, COLING: 2022, 2024 (with LREC), CoLM: 2024-Current
 
 ## Talks
 
