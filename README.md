@@ -120,7 +120,7 @@ Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo,
 
 ## Work Experiences
 
-[2025.05 – Current] Research Scientist, NAVER Cloud, Republic of Korea
+[2025.05 – Current] Senior Research Scientist, NAVER Cloud, Republic of Korea
 - Investigating novel and efficient way of using foundation models
 
 [2024.09 - Current] Adjunct Professor, Graduate School of Information & Communications, Konkuk University, Republic of Korea
