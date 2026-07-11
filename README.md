@@ -32,7 +32,7 @@ Wanjung Kim (Fall 2025, M.S.), Namgoo Song (Fall 2025, M.S.), Taeyang Choi (Spri
 
 [Google Scholar](https://scholar.google.co.kr/citations?user=hFSHr0gAAAAJ&hl=ko)
 
-### Under Reviews (recent)
+### Under Reviews (and Unquiet...)
 
 Lee, J., **Jo, H.**, Ko, D., Chae, K., Park, C., & Kim, J. (2026). What Models Know, How Well They Know It: Knowledge-Weighted Fine-Tuning for Learning When to Say" I Don't Know". arXiv preprint arXiv:2604.05779.
 
@@ -94,7 +94,9 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B., & Park, J. (2021). Passive Versus Active: Fr
 - Developed extrofitting that injects lexical semantics into word vectors
 - Extrofitting results in word vector generalization
 
-#### Co-authored: EMNLP(1), EMNLP-Industry(1), WS(1)
+#### Co-authored: ACL(1), EMNLP(1), EMNLP-Industry(1), WS(1)
+
+Lee, J., Park, C., **Jo, H.**, Kim, J., Park, J., & Yoo, K. M. Enhancing Hallucination Detection via Future Context. ACL2026(Findings).
 
 Kwon, O., Jeon D., Choi, N., Cho, G., **Jo, H.**, Kim, C., Lee, H., Kang, I., Kim, S., & Park, T. (2024). SLM as Guardian: Pioneering AI Safety with Small Language Model. EMNLP2024(Industry Track)
 
