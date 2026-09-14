@@ -25,7 +25,9 @@ Knowledge Transfer through Representation Learning
 
 ## Supervisee
 
-Wanjung Kim (Fall 2025, M.S.), Namgoo Song (Fall 2025, M.S.), Taeyang Choi (Spring 2026, M.S.).
+Wanjung Kim (Fall 2025, M.S.), Namgoo Song (Fall 2025, M.S.),
+
+Taeyang Choi (Spring 2026, M.S.), Yeongseok Yoon (Fall 2026, M.S.), Jeonghyun Ahn (Fall 2026, M.S.), Minchang Jang (Fall 2026, M.S.)
 
 
 ## Research Experience
@@ -33,10 +35,6 @@ Wanjung Kim (Fall 2025, M.S.), Namgoo Song (Fall 2025, M.S.), Taeyang Choi (Spri
 [Google Scholar](https://scholar.google.co.kr/citations?user=hFSHr0gAAAAJ&hl=ko)
 
 ### Under Reviews (and Unquiet...)
-
-Lee, J., **Jo, H.**, Ko, D., Chae, K., Park, C., & Kim, J. (2026). What Models Know, How Well They Know It: Knowledge-Weighted Fine-Tuning for Learning When to Say" I Don't Know". arXiv preprint arXiv:2604.05779.
-
-Kim, S., Park, B., Jung, K., Lee, J., Kim, S., Kim, J., ... & **Jo, H.** (2026). OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models. arXiv preprint arXiv:2603.23938.
 
 **Jo, H.**, Lee, J., Lee, J., Lee, S. W., Park, J., & Yoo, K. M. (2025). Finding Answers in Thought Matters: Revisiting Evaluation on Large Language Models with Reasoning. arXiv preprint arXiv:2510.14773.
 
@@ -94,7 +92,13 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B., & Park, J. (2021). Passive Versus Active: Fr
 - Developed extrofitting that injects lexical semantics into word vectors
 - Extrofitting results in word vector generalization
 
-#### Co-authored: ACL(1), EMNLP(1), EMNLP-Industry(1), WS(1)
+#### Corresponded: EMNLP(1)
+
+Kim, S., Park, B., Jung, K., Lee, J., Kim, S., Kim, J., ... & **Jo, H.** (2026). OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models. EMNLP2026.
+
+#### Co-authored: ACL(1), EMNLP(2), EMNLP-Industry(1), WS(1)
+
+Lee, J., **Jo, H.**, Ko, D., Chae, K., Park, C., & Kim, J. (2026). What Models Know, How Well They Know It: Knowledge-Weighted Fine-Tuning for Learning When to Say" I Don't Know". EMNLP2026(Findings).
 
 Lee, J., Park, C., **Jo, H.**, Kim, J., Park, J., & Yoo, K. M. Enhancing Hallucination Detection via Future Context. ACL2026(Findings).
 
