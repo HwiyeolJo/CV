@@ -203,8 +203,8 @@ Computing and Mathematics, Department of Computer Education, Seoul National Univ
 
 ## Academic Services
 
-- Regular ARR reviewer
-
+- Regular ARR Area Chair (2026-Current)
+- Regular ARR reviewer (-2026)
 - Before ARR: ACL: 2023-Current, EMNLP: 2021-Current, NAACL: 2024-Current, CogSci: 2022, 2023, 2024, COLING: 2022, 2024 (with LREC), CoLM: 2024-Current
 
 ## Talks
