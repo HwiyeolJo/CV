@@ -187,6 +187,8 @@ Park, C., Kim, H., Kim, J., Kim, Y., Kim, T., Cho, H., **Jo, H.**, Lee, S., Yoo,
 
 ## Teaching Courses
 
+Introduction to Large Language Models, Graduate School of Information & Communications, Konkuk University, Fall 2026.
+
 Advanced AI (III; DeepNLP--NLP with Deep Learning), Graduate School of Information & Communications, Konkuk University, Fall 2025-Current.
 
 Advanced AI (II; Natural Language Processing), Graduate School of Information & Communications, Konkuk University, Spring 2025-Current.
