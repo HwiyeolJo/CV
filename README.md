@@ -1,7 +1,7 @@
 # Hwiyeol Jo
 
 Currently at
-- NAVER Cloud as Senior Research Scientist (TL; Tech Lead)
+- NAVER Cloud as Senior Research Scientist (Tech Lead)
 - Konkuk University as Adjunct Professor<!-- (Search US) -->
 
 \* Reach me by email: hwiyeolj@gmail .com
@@ -37,8 +37,11 @@ Taeyang Choi (Spring 2026, M.S.), Yeongseok Yoon (Fall 2026, M.S.), Jeonghyun Ah
 ### Under Reviews
 
 **Jo, H.**, Lee, J., Park, C., Park, J., & Kim, J.  (2026) Reasoning Does Not Reliably Protect Recognized Answers from Plausible Distractors
+
 **Jo, H.**, Lee, J., Park, C., Joo, S., Kim, J., & Park, J. (2026). Home-Away Evaluation: A Home-Field Framework for Pairwise LLM Evaluation
+
 Lee, J., Choi, S., Park, C., Joo, S., **Jo, H.**, Kim, S., Park, J., & Kim, J. (2026). Rethinking Text-First Pretraining for Audio Language Models.
+
 **Jo, H.**, Lee, J., Lee, J., Lee, S. W., Park, J., & Yoo, K. M. (2025). Finding Answers in Thought Matters: Revisiting Evaluation on Large Language Models with Reasoning. arXiv preprint arXiv:2510.14773.
 
 ### Accepted
