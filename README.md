@@ -1,7 +1,7 @@
 # Hwiyeol Jo
 
 Currently at
-- NAVER Cloud as Senior Research Scientist
+- NAVER Cloud as Senior Research Scientist (TL; Tech Lead)
 - Konkuk University as Adjunct Professor<!-- (Search US) -->
 
 \* Reach me by email: hwiyeolj@gmail .com
@@ -34,8 +34,11 @@ Taeyang Choi (Spring 2026, M.S.), Yeongseok Yoon (Fall 2026, M.S.), Jeonghyun Ah
 
 [Google Scholar](https://scholar.google.co.kr/citations?user=hFSHr0gAAAAJ&hl=ko)
 
-### Under Reviews (and Unquiet...)
+### Under Reviews
 
+**Jo, H.**, Lee, J., Park, C., Park, J., & Kim, J.  (2026) Reasoning Does Not Reliably Protect Recognized Answers from Plausible Distractors
+**Jo, H.**, Lee, J., Park, C., Joo, S., Kim, J., & Park, J. (2026). Home-Away Evaluation: A Home-Field Framework for Pairwise LLM Evaluation
+Lee, J., Choi, S., Park, C., Joo, S., **Jo, H.**, Kim, S., Park, J., & Kim, J. (2026). Rethinking Text-First Pretraining for Audio Language Models.
 **Jo, H.**, Lee, J., Lee, J., Lee, S. W., Park, J., & Yoo, K. M. (2025). Finding Answers in Thought Matters: Revisiting Evaluation on Large Language Models with Reasoning. arXiv preprint arXiv:2510.14773.
 
 ### Accepted
@@ -96,7 +99,15 @@ Lim, J.\*, **Jo, H.**\*, Zhang, B., & Park, J. (2021). Passive Versus Active: Fr
 
 Kim, S., Park, B., Jung, K., Lee, J., Kim, S., Kim, J., ... & **Jo, H.** (2026). OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models. EMNLP2026.
 
-#### Co-authored: ACL(1), EMNLP(2), EMNLP-Industry(1), WS(1)
+#### Co-authored: ACL(1), EMNLP(4), EMNLP-Industry(1), WS(1), EACL(1), EACL-Industry(1)
+
+Joo, S., Park, C., Lee, J., **Jo, H.**, Kim, J., & Park, J. (2026). KAD-QA: A Benchmark for Multi-Hop Reasoning across Hierarchical Text and Tables in Korean Administrative Documents. EACL2027(Findings)
+
+Kim, J., Lee, S., Oh, Y., Lee, J., **Jo, H.**, Joo, S., Park, J., Park, C., & Han, D. (2026). Buying Future-Aware Representations at Negligible Overhead via Latent Multi-Token Injection. EACL2027(Industry Track)
+
+Kim, J., Kim, J., Jhang, M., Jeon, S., **Jo, H.**, Kim, J., Lee, S., & Lee, J. (2026). Can Omni-models Imagine the Future? A Diagnostic Benchmark for Multimodal World Modeling. EMNLP2026(Findings)
+
+Park, C., Kim, J., Joo, S. Lee, J., **Jo, H.**, Kim, J., & Choo, J. (2026). From Unverifiable Domain Text to Cross-Lingual RLVR via Code-Switched Task Synthesis. EMNLP2026
 
 Lee, J., **Jo, H.**, Ko, D., Chae, K., Park, C., & Kim, J. (2026). What Models Know, How Well They Know It: Knowledge-Weighted Fine-Tuning for Learning When to Say" I Don't Know". EMNLP2026(Findings).
 
